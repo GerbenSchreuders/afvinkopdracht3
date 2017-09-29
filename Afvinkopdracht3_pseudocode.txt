@@ -1,0 +1,20 @@
+﻿Afvinkopdracht 3
+Opdracht 3: Restrictie enzymen pseudocode
+
+Open bestand met DNA sequentie;
+Lees van het bestand alleen de DNA regels; 
+Bepaal hoeveel knipenzymen in sequentie voorkomen.
+Tel in sequentie het aantal: DdeI, BspMII, EcoRI, HindIII, TaqI
+Laat de aantallen zien in je programma
+Wanneer het één keer of vaker voorkomt in seq.; laat zien dat het knipt
+Wanneer het nul keer voorkomt in seq; laat zien dat er niks knipt
+
+
+
+
+
+
+
+
+
+
